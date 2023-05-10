@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: nikkihub/my-java-app:replaceImageTag
+        image: nikkihub/my-java-app:19
         ports:
         - containerPort: 8080
